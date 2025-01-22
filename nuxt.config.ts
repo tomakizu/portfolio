@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   app: {
+    baseURL: '/portfolio/',
     head: {
       meta: [
         { name: 'description', content: 'Portfolio website of Thomas Chong' },
@@ -28,8 +29,5 @@ export default defineNuxtConfig({
   modules: ['nuxt-bootstrap-icons', 'usebootstrap'],
   nitro: {
     preset: 'github_pages',
-  },
-  site: {
-    url: 'https://tomakizu.github.io/portfolio',
   },
 })

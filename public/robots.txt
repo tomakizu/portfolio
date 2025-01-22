@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://tomakizu.github.io/portfolio/sitemap.xml
