@@ -1,0 +1,38 @@
+[
+  {
+    "route": "projects-portfolio",
+    "title": "Portfolio",
+    "description": "My personal portfolio website; developed in 2025.",
+    "icon": "person"
+  },
+  {
+    "route": "projects-sanguosha-scroll",
+    "title": "Sanguosha Scroll Checklist",
+    "description": "A simple tool to record whether a Sanguosha scroll is used; developed in 2023.",
+    "icon": "joystick"
+  },
+  {
+    "route": "projects-polyu-capstone-project",
+    "title": "Traffic Congestion Prediction",
+    "description": "A capstone project to predict traffic congestion during my study in PolyU; developed in 2023.",
+    "icon": "car-front-fill"
+  },
+  {
+    "route": "projects-discord-wixoss-bot",
+    "title": "Discord WIXOSS Bot",
+    "description": "A generic Discord bot for a trading card game called WIXOSS; developed in 2022.",
+    "icon": "info-circle"
+  },
+  {
+    "route": "projects-discord-deadline-reminder",
+    "title": "Discord Deadline Reminder",
+    "description": "A Discord bot to send deadline reminders to subscribed users; developed in 2022.",
+    "icon": "app-indicator"
+  },
+  {
+    "route": "projects-ive-final-year-project",
+    "title": "Property Management",
+    "description": "A group-based final year project about property management during my study in IVE, developed in 2021.",
+    "icon": "building-gear"
+  }
+]

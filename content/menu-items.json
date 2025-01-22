@@ -1,0 +1,18 @@
+[
+  {
+    "route": "index",
+    "title": "Home"
+  },
+  {
+    "route": "resume",
+    "title": "Resume"
+  },
+  {
+    "route": "projects",
+    "title": "Projects"
+  },
+  {
+    "route": "contact",
+    "title": "Contact"
+  }
+]
