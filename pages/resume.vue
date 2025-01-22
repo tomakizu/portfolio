@@ -10,7 +10,7 @@ useHead({ title: 'Resume' });
         <div class="row d-flex justify-content-center text-center">
           <div class="col-lg-8">
             <h1>Resume</h1>
-            <p class="mb-0">You may <NuxtLink to="/downloads/resume_portfolio_ThomasChong_2501.pdf" target="_blank"
+            <p class="mb-0">You may <NuxtLink to="/portfolio/downloads/resume_portfolio_ThomasChong_2501.pdf" target="_blank"
                 external>click here
               </NuxtLink> to download the PDF version of my resume for further reference.</p>
           </div>
