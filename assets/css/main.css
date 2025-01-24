@@ -760,27 +760,27 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
-.about .content h2 {
+.about .content h2, .skills .skills-content h2 {
   font-weight: 700;
   font-size: 24px;
 }
 
-.about .content ul {
+.about .content ul, .skills .skills-content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.about .content ul li, .skills .skills-content ul li {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
 }
 
-.about .content ul strong {
+.about .content ul strong, .skills .skills-content ul strong {
   margin-right: 10px;
 }
 
-.about .content ul i {
+.about .content ul i, .skills .skills-content ul i {
   font-size: 16px;
   margin-right: 5px;
   color: var(--accent-color);
