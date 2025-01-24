@@ -84,7 +84,7 @@ useHead({ title: 'Resume' });
           <div class="resume-item">
             <h4>Web Developer (PHP); Developer</h4>
             <h5>May 2023 - Present</h5>
-            <p><em>ESD Services Limited</em></p>
+            <p><em><NuxtLink to="https://www.esdlife.com/" target="_blank" external>ESD Services Limited</NuxtLink></em></p>
             <ul>
               <li>Contribute to the design, development, and implementation of inhouse projects.</li>
               <li>Collaborate with other development teams to align business requirements with technical specifications.
@@ -97,17 +97,19 @@ useHead({ title: 'Resume' });
               <li>Contributed to the development and implementation of member loyalty scheme project; provided feasible
                 solutions for complex business requirements.</li>
             </ul>
+            <p><em>#Laravel #CodeIgniter #WordPress #Nuxt #Node.js #MySQL #AWS</em></p>
           </div><!-- Edn Resume Item -->
 
           <div class="resume-item">
             <h4>Part Time Programmer</h4>
             <h5>Jul 2021 - Apr 2023</h5>
-            <p><em>Innoverz Limited</em></p>
+            <p><em><NuxtLink to="https://www.innoverz.com/" target="_blank" external>Innoverz Limited</NuxtLink></em></p>
             <ul>
               <li>Planned website development, converting mockups into usable web presence.</li>
               <li>Contributed to the design, development, and implementation of smart recycling project.</li>
               <li>Maintained web-based e-commerce system and developed new features based on user requirements.</li>
             </ul>
+            <p><em>#Laravel #CodeIgniter #Handlebar #MySQL #AWS</em></p>
           </div><!-- Edn Resume Item -->
         </div>
       </div>
