@@ -34,24 +34,6 @@ useHead({ title: 'Resume' });
     <div class="container">
       <div class="row">
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-          <h3 class="resume-title">Sumary</h3>
-
-          <div class="resume-item pb-0">
-            <h4>Thomas Chong</h4>
-            <p>
-              <em>
-                Web Developer with 3+ years of hands-on experience in developing web-based projects; recognized for
-                being diligent, punctual, and driven.
-              </em>
-            </p>
-            <p>
-              <em>
-                Skills: PHP (Laravel, CodeIgniter, WordPress), Node.js, Nuxt, MySQL, HTML, CSS, JavaScript, Java,
-                Python, etc.
-              </em>
-            </p>
-          </div><!-- Edn Resume Item -->
-
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
             <h4>Bachelr of Science in Computing</h4>

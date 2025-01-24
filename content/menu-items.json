@@ -4,6 +4,10 @@
     "title": "Home"
   },
   {
+    "route": "profile",
+    "title": "Profile"
+  },
+  {
     "route": "resume",
     "title": "Resume"
   },
