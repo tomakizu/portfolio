@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     baseURL: '/portfolio/',
     head: {
       meta: [
-        { name: 'description', content: 'Portfolio website of Thomas Chong' },
+        { name: 'description', content: 'Portfolio Website of Thomas Chong' },
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }
       ],
