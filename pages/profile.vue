@@ -41,7 +41,7 @@ useHead({
         <div class="col-lg-9 content">
           <h2>Thomas Chong</h2>
           <p class="pt-3">
-            Gratuated from Hong Kong Institute of Vocational Education (Sha Tin) in 2021 and The Hong Kong Polytechnic
+            Graduated from Hong Kong Institute of Vocational Education (Sha Tin) in 2021 and The Hong Kong Polytechnic
             University with a Bachelor of Science in Computing in 2023; currently working as Developer at ESD Services
             Limited.
           </p>
