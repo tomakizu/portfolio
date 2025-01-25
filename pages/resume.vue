@@ -36,7 +36,7 @@ useHead({ title: 'Resume' });
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
-            <h4>Bachelr of Science in Computing</h4>
+            <h4>Bachelor of Science in Computing</h4>
             <h5>2021 - 2023</h5>
             <p><em>The Hong Kong Polytechnic University</em></p>
             <ul>
