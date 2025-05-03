@@ -16,7 +16,7 @@
     "nuxt-bootstrap-icons": "^2.1.0",
     "swiper": "^11.2.1",
     "typed.js": "^2.1.0",
-    "usebootstrap": "^3.5.100",
+    "usebootstrap": "^3.5.104",
     "vue": "latest",
     "vue-router": "latest"
   }
