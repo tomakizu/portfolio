@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/aos": "^3.0.7",
     "aos": "^2.3.4",
-    "nuxt": "^3.19.2",
+    "nuxt": "^3.17.1",
     "nuxt-bootstrap-icons": "^2.1.0",
     "swiper": "^11.2.1",
     "typed.js": "^2.1.0",
