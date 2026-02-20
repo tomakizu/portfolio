@@ -14,7 +14,7 @@
     "aos": "^2.3.4",
     "nuxt": "^3.17.1",
     "nuxt-bootstrap-icons": "^2.1.0",
-    "swiper": "^11.2.1",
+    "swiper": "^12.1.2",
     "typed.js": "^2.1.0",
     "usebootstrap": "^3.5.104",
     "vue": "latest",
